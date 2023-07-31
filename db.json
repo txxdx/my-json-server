@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "name": "The Snow White",
+      "price": 2.99
+    },
+    {
+      "name": "The Little Mermaid",
+      "price": 2.99
+    }
+  ]
+}
